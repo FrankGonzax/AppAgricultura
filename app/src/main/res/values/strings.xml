@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AppAgricultura</string>
+    <string name="name_1">Bienvenido!</string>
+    <string name="name_2">Ingrese su cuenta.</string>
+    <string name="name_3">Huancayo</string>
+    <string name="name_5">Chupaca</string>
+    <string name="name_6">Concepción</string>
+    <string name="name_7">Jauja</string>
+    <string name="name_8">Yauli</string>
+    <string name="name_9">Tarma</string>
+    <string name="name_10">Junín</string>
+    <string name="name_11">Seleccione su ubicación:</string>
+    <string name="name_12">Iniciar Sesión</string>
+    <string name="name_13">Ingrese su contraseña.</string>
+    <string name="name_14">Crear Cuenta</string>
+    <string name="name_15">¿No tienes una cuenta?</string>
+    <string name="name_16">Crear Cuenta</string>
+    <string name="name_17">Cuenta</string>
+    <string name="name_18">Contraseña</string>
+    <string name="name_19">Registrarse</string>
+    <string name="name_20">Ubicación:</string>
+    <string name="name_21">Temperatura:</string>
+    <string name="name_22">¿Cómo afecta?</string>
+    <string name="name_23">Inicio</string>
+    <string name="name_24">Obtener pronostico de clima</string>
+    <string name="name_25">Obtener pronóstico de suelo</string>
+    <string name="name_26">Papa:</string>
+    <string name="name_27">Maíz:</string>
+    <string name="name_28">Ver impacto</string>
+    <string name="name_29">Ingrese Temperatura</string>
+    <string name="name_30">Ingrese Datos</string>
+    <string name="name_31">Cosecha:</string>
+    <string name="name_32">Aceptar</string>
+    <string name="name_33">Papa</string>
+    <string name="name_34">Maíz</string>
+    <string name="name_35">Tipo:</string>
+
+
+</resources>
