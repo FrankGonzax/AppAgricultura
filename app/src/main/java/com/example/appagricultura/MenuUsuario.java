@@ -76,4 +76,9 @@ public class MenuUsuario extends AppCompatActivity {
         Intent intent = new Intent(MenuUsuario.this, Impacto.class);
         startActivity(intent);
     }
+
+    public void Helada(View v){
+        Intent intent = new Intent(MenuUsuario.this, pronosticoHelada.class);
+        startActivity(intent);
+    }
 }

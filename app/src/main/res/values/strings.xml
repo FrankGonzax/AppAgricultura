@@ -22,7 +22,7 @@
     <string name="name_21">Temperatura:</string>
     <string name="name_22">¿Cómo afecta?</string>
     <string name="name_23">Inicio</string>
-    <string name="name_24">Obtener pronostico de clima</string>
+    <string name="name_24">Obtener pronostico de Helada</string>
     <string name="name_25">Obtener pronóstico de suelo</string>
     <string name="name_26">Papa:</string>
     <string name="name_27">Maíz:</string>
@@ -34,6 +34,10 @@
     <string name="name_33">Papa</string>
     <string name="name_34">Maíz</string>
     <string name="name_35">Tipo:</string>
+    <string name="name_36">Hoy</string>
+    <string name="name_37">Ayer</string>
+    <string name="name_38">2 dias</string>
+    <string name="name_39">3 dias</string>
 
 
 </resources>

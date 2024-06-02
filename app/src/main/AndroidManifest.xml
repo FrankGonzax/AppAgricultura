@@ -17,6 +17,9 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
+            android:name=".pronosticoHelada"
+            android:exported="false" />
+        <activity
             android:name=".impactoRespuesta"
             android:exported="false" />
         <activity
